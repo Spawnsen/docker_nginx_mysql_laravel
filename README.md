@@ -5,9 +5,8 @@
 
 Diese Anleitung baut auf dem Tutorial von ANTHONY PROTANO [CREATING A SIMPLE LARAVEL DOCKER ENVIRONMENT](https://liquid.fish/current/creating-a-simple-laravel-docker-environment) auf.
 
-## Abhängigkeiten
+## Meine Umgebung
 
-Meine Umgebung:
 - Windows 10 Pro / Version: 20H2
 - Aktivierte HyperV + WSL (Linux Umgebung)
 - Docker Desktop / Docker Engine Version: 20.10.2
