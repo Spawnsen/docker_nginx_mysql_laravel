@@ -7,7 +7,7 @@ Laravel Umgebung in Docker mit nginx &amp; mysql
   
 2. Konsole aufrufen und in den Ordner mit der "docker-compose.yml" wechseln
 
-3. Folgenden Befehl ausführen: "run docker-compose build"
+3. Folgenden Befehl ausführen: "docker-compose build"
 
 4. Warten bis alles heruntergeladen und bereit ist.
 
