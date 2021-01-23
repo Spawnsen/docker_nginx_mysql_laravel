@@ -1,10 +1,16 @@
-# H1 Programmierumgebung in Docker mit nginx und mySQL
+# Programmierumgebung in Docker mit nginx und mySQL
 
 
 ## Datenquelle
 
-Diese Anleitung baut auf dem Tutorial von ANTHONY PROTANO [Art of README](https://liquid.fish/current/creating-a-simple-laravel-docker-environment) auf.
+Diese Anleitung baut auf dem Tutorial von ANTHONY PROTANO [CREATING A SIMPLE LARAVEL DOCKER ENVIRONMENT](https://liquid.fish/current/creating-a-simple-laravel-docker-environment) auf.
 
+## Abhängigkeiten
+
+Meine Umgebung:
+- Windows 10 Pro / Version: 20H2
+- Aktivierte HyperV + WSL (Linux Umgebung)
+- Docker Desktop / Docker Engine Version: 20.10.2
 
 ## Verwendung
 
