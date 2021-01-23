@@ -1,2 +1,3 @@
-# docker_nginx_mysql_laravel
+# Programmierumgebung in Docker mit nginx und mySQL
+
 Laravel Umgebung in Docker mit nginx &amp; mysql
