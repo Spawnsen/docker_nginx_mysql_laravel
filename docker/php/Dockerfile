@@ -41,6 +41,9 @@ RUN if [ $APP_ENV = "local" ]; then \
    docker-php-ext-enable xdebug; \
 fi;
 
+# Install nodejs and npm
+RUN apk add --update nodejs npm
+
 # Install PHP Composer
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
 
